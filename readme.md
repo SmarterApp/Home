@@ -1,6 +1,6 @@
 ### SmarterApp Online Test Delivery System
 
-![](https://github.com/SmarterApp/Home/blob/master/1763806324-SmarterApp_logo.png?raw=true)
+![](https://github.com/SmarterApp/Home/blob/master/assets/1763806324-SmarterApp_logo.png?raw=true)
 
 Welcome to the SmarterApp Source Home Page. [SmarterApp](http://smarterapp.org/) is a community of organizations devoted to collaboration on an open software suite for the support of educational assessment. The project is used by but is not exclusive to the [Smarter Balanced Assessment Consortium](http://www.smarterbalanced.org/).
 
