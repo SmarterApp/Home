@@ -10,8 +10,8 @@ A [General Discussion Forum](http://forum.opentestsystem.org/viewforum.php?f=19)
 
 ### Developer Resources
 
-* [SmarterApp Announcements and Releases (2016)](Announcements-and-Releases-2016)
-* [SmarterApp Announcements and Releases (2015)](Announcements-and-Releases-2015)
-* [SmarterApp Announcements and Releases (2014)](Announcements-and-Releases-2014)
-* [Developer Quickstart Guide](Developer-Quickstart-Guide)
-* [Installation / upgrade instructions for Maven in STS](MavenSTS)
+* [SmarterApp Announcements and Releases (2016)](https://github.com/SmarterApp/Home/wiki/Announcements-and-Releases-2016)
+* [SmarterApp Announcements and Releases (2015)](https://github.com/SmarterApp/Home/wiki/Announcements-and-Releases-2015)
+* [SmarterApp Announcements and Releases (2014)](https://github.com/SmarterApp/Home/wiki/Announcements-and-Releases-2014)
+* [Developer Quickstart Guide](https://github.com/SmarterApp/Home/wiki/Developer-Quickstart-Guide)
+* [Installation / upgrade instructions for Maven in STS](https://github.com/SmarterApp/Home/wiki/MavenSTS)
