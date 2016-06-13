@@ -15,3 +15,9 @@ A [General Discussion Forum](http://forum.opentestsystem.org/viewforum.php?f=19)
 * [SmarterApp Announcements and Releases (2014)](https://github.com/SmarterApp/Home/wiki/Announcements-and-Releases-2014)
 * [Developer Quickstart Guide](https://github.com/SmarterApp/Home/wiki/Developer-Quickstart-Guide)
 * [Installation / upgrade instructions for Maven in STS](https://github.com/SmarterApp/Home/wiki/MavenSTS)
+
+{% for repository in site.github.public_repositories %}
+* [{{ repository.name }}]({{ repository.html_url }})
+
+{% endfor %}
+
